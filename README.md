@@ -13,13 +13,13 @@ Some of the technologies I've worked with and am currently learning include:
 * [![Java][Java.com]][Java-url]
 * [![Python][Python.com]][Python-url]
 * [![React][React.com]][React-url]
-* [![React][JS.js]][JS-url]
+* [![JavaScript][JS.js]][JS-url]
 * [![HTML5][HTML.com]][HTML-url]
 * [![CSS3][CSS.com]][CSS-url]
-* [![C++][C++.com]][C++-url]
-* [![C][C.com]][C-url]
 * [![SQL][SQL.com]][SQL-url]
 * [![Linux/CLI][Linux.com]][Linux-url]
+* [![C][C.com]][C-url]
+* [![C++][C++.com]][C++-url]
 * [Docker][Docker-url]
   
 ## Let's Connect! 🤝
