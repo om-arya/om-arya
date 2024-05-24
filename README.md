@@ -13,7 +13,7 @@ Some of the technologies I've worked with and am currently learning include:
 * [![Java][Java.com]][Java-url]
 * [![Python][Python.com]][Python-url]
 * [![React][React.com]][React-url]
-* [![JavaScript][JS.js]][JS.url]
+* [![React][JS.js]][JS-url]
 * [![HTML5][HTML.com]][HTML-url]
 * [![CSS3][CSS.com]][CSS-url]
 * [![C++][C++.com]][C++-url]
@@ -26,8 +26,7 @@ Some of the technologies I've worked with and am currently learning include:
 Feel free to reach out for anything!
 
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
-
-[om.arya0577@gmail.com](mailto:om.arya0577@gmail.com)
+[![E-Mail][Email.com]][Email-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Django.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
