@@ -1,4 +1,4 @@
-# Hi there, I'm Om Arya! 👋
+# Hi, I'm Om Arya! 👋
 💻 Computer Science at the University of Maryland, College Park
 
 📍 Washington DC Metro Area
@@ -21,7 +21,7 @@ Some of the technologies I've worked with and am currently learning include:
 * [![C][C.com]][C-url]
 * [![C++][C++.com]][C++-url]
   
-## Let's Connect! 🤝
+## Let's Connect 🤝
 Feel free to reach out for anything!
 
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
