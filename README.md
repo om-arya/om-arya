@@ -20,7 +20,6 @@ Some of the technologies I've worked with and am currently learning include:
 * [![Linux/CLI][Linux.com]][Linux-url]
 * [![C][C.com]][C-url]
 * [![C++][C++.com]][C++-url]
-* [Docker][Docker-url]
   
 ## Let's Connect! 🤝
 Feel free to reach out for anything!
