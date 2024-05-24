@@ -29,14 +29,14 @@ Feel free to reach out for anything!
 [![E-Mail][Email.com]][Email-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Django.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[Django-url]: https://react.dev/
-[SpringBoot.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[SpringBoot-url]: https://react.dev/
-[Java.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[Java-url]: https://react.dev/
-[Python.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[Python-url]: https://react.dev/
+[Django.com]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://www.djangoproject.com/
+[SpringBoot.com]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[SpringBoot-url]: https://spring.io/projects/spring-boot
+[Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/en/
+[Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
 [React.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
 [React-url]: https://react.dev/
 [JS.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
@@ -45,16 +45,14 @@ Feel free to reach out for anything!
 [HTML-url]: https://html.com/
 [CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white 
 [CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html#
-[C++.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[C++-url]: https://react.dev/
-[C.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[C-url]: https://react.dev/
-[SQL.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[SQL-url]: https://react.dev/
-[Linux.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[Linux-url]: https://react.dev/
-[Docker.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[Docker-url]: https://react.dev/
+[C++.com]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[C++-url]: https://cplusplus.com/
+[C.com]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://www.gnu.org/software/gnu-c-manual/
+[SQL.com]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[SQL-url]: https://www.mysql.com/
+[Linux.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[Linux-url]: https://www.linux.org/
 
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/om-arya/
