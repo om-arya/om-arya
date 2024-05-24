@@ -8,7 +8,7 @@ I’m pursuing a B.Sc in Computer Science at the University of Maryland, College
 
 ## My Tech Stack 🛠
 Some of the technologies I've worked with and am currently learning include:
-* [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]
+* ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 * [![Spring Boot][SpringBootImage]]
 * [![Java][JavaImage]]
 * [![Python][PythonImage]]
