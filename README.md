@@ -20,7 +20,7 @@ Some of the technologies I've worked with and am currently learning include:
 * [![C][C.com]][C-url]
 * [![SQL][SQL.com]][SQL-url]
 * [![Linux/CLI][Linux.com]][Linux-url]
-* [![Docker][Docker.com]][Docker-url]
+* [Docker][Docker-url]
   
 ## Let's Connect! 🤝
 Feel free to reach out for anything!
@@ -53,6 +53,7 @@ Feel free to reach out for anything!
 [SQL-url]: https://www.mysql.com/
 [Linux.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [Linux-url]: https://www.linux.org/
+[Docker-url]: https://www.docker.com/
 
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/om-arya/
