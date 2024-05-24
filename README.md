@@ -21,5 +21,7 @@ I’m pursuing a B.Sc in Computer Science at the University of Maryland, College
 - Node.js
 ## Let's Connect! 🤝
 Feel free to reach out for anything!
+
 [linkedin.com/in/om-arya/](https://www.linkedin.com/in/om-arya/)
+
 [om.arya0577@gmail.com](mailto:om.arya0577@gmail.com)
