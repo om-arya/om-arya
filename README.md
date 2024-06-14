@@ -13,6 +13,7 @@ Some of the technologies I've worked with and am currently learning include:
 * [![Java][Java.com]][Java-url]
 * [![Python][Python.com]][Python-url]
 * [![React][React.com]][React-url]
+* [![NodeJS][NodeJS.com]][NodeJS-url]
 * [![JavaScript][JS.js]][JS-url]
 * [![HTML5][HTML.com]][HTML-url]
 * [![CSS3][CSS.com]][CSS-url]
@@ -38,6 +39,8 @@ Feel free to reach out for anything!
 [Python-url]: https://www.python.org/
 [React.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
 [React-url]: https://react.dev/
+[NodeJS.com]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[NodeJS-url]: https://nodejs.org/en
 [JS.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JS-url]: https://JavaScript.com/
 [HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
