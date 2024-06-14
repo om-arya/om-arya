@@ -47,7 +47,7 @@ Feel free to reach out for anything!
 [HTML-url]: https://html.com/
 [CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white 
 [CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html#
-[C++.com]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[C++.com]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
 [C++-url]: https://cplusplus.com/
 [C.com]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [C-url]: https://www.gnu.org/software/gnu-c-manual/
