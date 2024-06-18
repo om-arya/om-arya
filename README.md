@@ -4,7 +4,7 @@
 📍 Washington DC Metro Area
 
 ## About Me
-I’m pursuing a B.Sc in Computer Science at the University of Maryland, College Park, with minors in Math and Statistics. Passionate about creating innovative solutions for real demands, I'm aspiring to become a full stack developer. When I'm not coding, I enjoy travelling, fitness, reading, and spending time with friends and family.
+I’m pursuing a B.Sc in Computer Science at the University of Maryland, College Park, with minors in Math and Statistics. Passionate about creating innovative solutions for real demands, I'm aspiring to become a software developer. When I'm not coding, I enjoy travelling, fitness, reading, and spending time with friends and family.
 
 ## My Tech Stack 🛠
 Some of the technologies I've worked with and am currently learning include:
