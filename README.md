@@ -17,7 +17,7 @@ Some of the technologies I've worked with and am currently learning include:
 * [![JavaScript][JS.js]][JS-url]
 * [![HTML5][HTML.com]][HTML-url]
 * [![CSS3][CSS.com]][CSS-url]
-* [![SQL][SQL.com]][SQL-url]
+* [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
 * [![Linux/CLI][Linux.com]][Linux-url]
 * [![C][C.com]][C-url]
 * [![C++][C++.com]][C++-url]
@@ -51,8 +51,8 @@ Feel free to reach out for anything!
 [C++-url]: https://cplusplus.com/
 [C.com]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [C-url]: https://www.gnu.org/software/gnu-c-manual/
-[SQL.com]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-[SQL-url]: https://www.mysql.com/
+[PostgreSQL.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
 [Linux.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [Linux-url]: https://www.linux.org/
 [Docker-url]: https://www.docker.com/
