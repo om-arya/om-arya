@@ -6,21 +6,9 @@
 ## About Me
 I’m pursuing a B.Sc in Computer Science at the University of Maryland, College Park, with minors in Math and Statistics. Passionate about creating innovative solutions for real demands, I'm aspiring to become a software developer. When I'm not coding, I enjoy travelling, fitness, reading, and spending time with friends and family.
 
-## My Tech Stack 🛠
-Some of the technologies I've worked with and am currently learning include:
-* [![Django][Django.com]][Django-url]
-* [![Spring Boot][SpringBoot.com]][SpringBoot-url]
-* [![Java][Java.com]][Java-url]
-* [![Python][Python.com]][Python-url]
-* [![React][React.com]][React-url]
-* [![NodeJS][NodeJS.com]][NodeJS-url]
-* [![PostgreSQL][PostgreSQL.com]][PostgreSQL-url]
-* [![JavaScript][JS.js]][JS-url]
-* [![HTML5][HTML.com]][HTML-url]
-* [![CSS3][CSS.com]][CSS-url]
-* [![Linux/CLI][Linux.com]][Linux-url]
-* [![C][C.com]][C-url]
-* [![C++][C++.com]][C++-url]
+## Recent Projects 🛠
+* [FinSight][FinSight-url] - A financial portfolio manager.
+* [T.O.M. - Tabby of Motivation][TOM-url] - A cat-themed web app.
   
 ## Let's Connect 🤝
 Feel free to reach out for anything!
@@ -29,33 +17,8 @@ Feel free to reach out for anything!
 [![E-Mail][Email.com]][Email-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Django.com]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-[Django-url]: https://www.djangoproject.com/
-[SpringBoot.com]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
-[SpringBoot-url]: https://spring.io/projects/spring-boot
-[Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[Java-url]: https://www.java.com/en/
-[Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org/
-[React.com]: https://shields.io/badge/react-black?logo=react&style=for-the-badge
-[React-url]: https://react.dev/
-[NodeJS.com]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[NodeJS-url]: https://nodejs.org/en
-[JS.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[JS-url]: https://JavaScript.com/
-[HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://html.com/
-[CSS.com]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white 
-[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html#
-[C++.com]: https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
-[C++-url]: https://cplusplus.com/
-[C.com]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-[C-url]: https://www.gnu.org/software/gnu-c-manual/
-[PostgreSQL.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-[PostgreSQL-url]: https://www.postgresql.org/
-[Linux.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[Linux-url]: https://www.linux.org/
-[Docker-url]: https://www.docker.com/
+[FinSight-url]: https://github.com/om-arya/FinSight
+[TOM-url]: https://github.com/om-arya/T.O.M
 
 [LinkedIn.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/om-arya/
