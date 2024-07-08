@@ -8,7 +8,7 @@ I’m pursuing a B.Sc in Computer Science at the University of Maryland, College
 
 ## Recent Projects 🛠
 * [FinSight][FinSight-url] - A financial portfolio management and analysis appliciation using Spring Boot/PostgreSQL and REST principles, featuring a modern React interface with asset visualization and statistics.
-* [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, featuring randomized quotes with text-to-speech, a schedule generator using Google’s Gemini API, and a Pomodoro timer. Built with Django and vanilla JS.
+* [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, featuring randomized quotes with text-to-speech, a schedule generator using Google’s Gemini API, and a Pomodoro timer. Built with Django and JavaScript.
   
 ## Let's Connect 🤝
 Feel free to reach out for anything!
