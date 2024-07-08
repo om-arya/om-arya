@@ -7,8 +7,9 @@
 I’m pursuing a B.Sc in Computer Science at the University of Maryland, College Park, with minors in Math and Statistics. Passionate about creating innovative solutions for real demands, I'm aspiring to become a software developer. When I'm not coding, I enjoy travelling, fitness, reading, and spending time with friends and family.
 
 ## Recent Projects 🛠
-* [FinSight][FinSight-url] - A financial portfolio manager.
-* [T.O.M. - Tabby of Motivation][TOM-url] - A cat-themed web app.
+* [FinSight][FinSight-url] - A financial portfolio management and analysis appliciation using Spring Boot/PostgreSQL and REST principles, featuring a modern React interface with asset visualization and statistics.
+* [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, featuring randomized
+quotes with text-to-speech, a schedule generator using Google’s Gemini API, and a Pomodoro timer.
   
 ## Let's Connect 🤝
 Feel free to reach out for anything!
