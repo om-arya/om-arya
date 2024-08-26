@@ -1,5 +1,5 @@
 # Hi, I'm Om Arya! 👋
-💻 Computer Science at the University of Maryland, College Park
+💻 Computer Science + Mathematics at the University of Maryland, College Park
 
 📍 Washington DC Metro Area
 
