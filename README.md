@@ -4,9 +4,7 @@
 📍 Washington DC Metro Area
 
 ## About Me
-I’m pursuing a Bachelor's Degree with a double major in Computer Science and Mathematics at the University of Maryland, College Park. My technical proficiencies cover a broad range, comprising full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality. Always looking forward to new challenges and opportunities, I'm eager to apply my skills as a software engineer in a collaborative environment.
-
-When I'm not coding, you can find me playing the guitar, reading, playing/watching sports (or a Bollywood movie), or just hanging out with friends and family.
+I’m pursuing a Bachelor's Degree with a double major in Computer Science and Mathematics at the University of Maryland, College Park. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
 
 ## Recent Projects 🛠
 * [FinSight][FinSight-url] - A financial portfolio management and analysis appliciation using Spring Boot/PostgreSQL and REST principles, featuring a modern React interface with asset visualization and statistics.
