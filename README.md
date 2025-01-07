@@ -1,10 +1,10 @@
 # Hi, I'm Om Arya! 👋
-💻 Computer Science and Mathematics at the University of Maryland, College Park
+💻 Computer Science and Mathematics (Double Major) at the University of Maryland, College Park
 
 📍 Washington DC Metro Area
 
 ## About Me
-I’m pursuing a B.Sc with a double major in Computer Science and Mathematics at the University of Maryland, College Park. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
+I’m pursuing a B.Sc in Computer Science and Mathematics at the University of Maryland. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
 
 ## Recent Projects 🛠
 * [Vibify][Vibify-url] - A mobile music application that curates personalized radio stations based on user-defined "vibes".
