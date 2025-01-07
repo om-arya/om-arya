@@ -7,9 +7,9 @@
 I’m pursuing a B.Sc in Computer Science and Mathematics at the University of Maryland. I enjoy exploring all kinds of technical endeavors and advancing my skills through hands-on projects. My current proficiencies as a software engineer cover object-oriented programming, full-stack technologies, API development, databases, and more. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
 
 ## Recent Projects 🛠
-* [Vibify][Vibify-url] - A mobile music application that curates personalized radio stations based on user-defined "vibes".
+* [Vibify][Vibify-url] - A mobile music application that curates personalized radio stations based on user-defined "vibes", leveraging a Hugging Face NLP model and the Spotify Web API.
 * [FinSight][FinSight-url] - A financial portfolio management and analysis appliciation using Spring Boot/PostgreSQL and REST principles, featuring a modern React interface with asset visualization and statistics.
-* [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, featuring randomized quotes with text-to-speech, a schedule generator using Google’s Gemini API, and a Pomodoro timer. Built with Django and JavaScript.
+* [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, using Django to integrate the Gemini Developer API into a schedule generator, study timer, and randomized quotes.
   
 ## Let's Connect 🤝
 I'm always open to new opportunities and collaborations, so please feel free to reach out!
