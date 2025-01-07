@@ -4,9 +4,10 @@
 📍 Washington DC Metro Area
 
 ## About Me
-I’m pursuing a Bachelor's Degree with a double major in Computer Science and Mathematics at the University of Maryland, College Park. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
+I’m pursuing a B.Sc with a double major in Computer Science and Mathematics at the University of Maryland, College Park. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
 
 ## Recent Projects 🛠
+* [Vibify][Vibify-url] - A mobile music application that curates personalized radio stations based on user-defined "vibes".
 * [FinSight][FinSight-url] - A financial portfolio management and analysis appliciation using Spring Boot/PostgreSQL and REST principles, featuring a modern React interface with asset visualization and statistics.
 * [T.O.M. - Tabby of Motivation][TOM-url] - A multi-purpose, cat-themed web app for college students, featuring randomized quotes with text-to-speech, a schedule generator using Google’s Gemini API, and a Pomodoro timer. Built with Django and JavaScript.
   
@@ -17,6 +18,7 @@ I'm always open to new opportunities and collaborations, so please feel free to 
 [![E-Mail][Email.com]][Email-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[Vibify-url]: https://github.com/om-arya/Vibify
 [FinSight-url]: https://github.com/om-arya/FinSight
 [TOM-url]: https://github.com/om-arya/T.O.M
 
