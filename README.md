@@ -4,7 +4,7 @@
 📍 Washington DC Metro Area
 
 ## About Me
-I’m pursuing a B.Sc in Computer Science and Mathematics at the University of Maryland. My technical proficiencies cover full-stack web development, mobile development, and machine learning. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
+I’m pursuing a B.Sc in Computer Science and Mathematics at the University of Maryland. I enjoy exploring all kinds of technical endeavors and advancing my skills through hands-on projects. My current proficiencies as a software engineer cover object-oriented programming, front-end and back-end technologies, API development, databases, and more. I'm particularly passionate about leveraging my skills to develop solutions with real-world impacts, crafted with an analytical and user-centric mentality.
 
 ## Recent Projects 🛠
 * [Vibify][Vibify-url] - A mobile music application that curates personalized radio stations based on user-defined "vibes".
