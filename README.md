@@ -4,7 +4,7 @@
 📍 Washington DC Metro Area
   
 ## Let's Connect 🤝
-I'm always open to new opportunities and collaborations, so please feel free to reach out!
+I'm always open to new collaborations. Feel free to reach out. :)
 
 [![LinkedIn][LinkedIn.com]][LinkedIn-url]
 [![E-Mail][Email.com]][Email-url]
